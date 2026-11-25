@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_koleksi"
+        android:icon="@drawable/ic_book"
+        android:title="Koleksi" />
+    <item
+        android:id="@+id/nav_denda"
+        android:icon="@drawable/ic_money"
+        android:title="Denda" />
+
+    <item
+        android:id="@+id/nav_notifikasi"
+        android:icon="@drawable/ic_notification"
+        android:title="Notifikasi" />
+    <item
+        android:id="@+id/nav_surat"
+        android:icon="@drawable/ic_document"
+        android:title="Surat" />
+</menu>
